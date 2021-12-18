@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1089803370002",
+    "project_id": "geek-play",
+    "storage_bucket": "geek-play.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089803370002:android:23f7f6398acc161f5a22cb",
+        "android_client_info": {
+          "package_name": "com.geekcommunity.geekplay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089803370002-rqbl0u1ohffq40bvdvik0h8neu0ufh2b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7Z3-cnfePxi8Dk_sjr5jFDAHjW4lvPoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089803370002-rqbl0u1ohffq40bvdvik0h8neu0ufh2b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

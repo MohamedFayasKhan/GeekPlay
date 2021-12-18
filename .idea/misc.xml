@@ -3,11 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Softwares/Android/Projects/GeekPlay/app/src/main/res/drawable/gradient_splash.xml" value="0.2078125" />
-        <entry key="..\:/Softwares/Android/Projects/GeekPlay/app/src/main/res/layout/activity_list_of_videos.xml" value="0.19166666666666668" />
-        <entry key="..\:/Softwares/Android/Projects/GeekPlay/app/src/main/res/layout/activity_main.xml" value="0.12771739130434784" />
-        <entry key="..\:/Softwares/Android/Projects/GeekPlay/app/src/main/res/layout/activity_video_player.xml" value="0.1" />
-        <entry key="..\:/Softwares/Android/Projects/GeekPlay/app/src/main/res/layout/recycler_video_card.xml" value="0.19166666666666668" />
+        <entry key="..\:/Softwares/Android/Projects/Github/GeekPlay/app/src/main/res/layout/activity_list_of_videos.xml" value="0.12771739130434784" />
       </map>
     </option>
   </component>
